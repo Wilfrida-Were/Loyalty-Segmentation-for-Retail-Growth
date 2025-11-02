@@ -1,1 +1,1 @@
-# Loyalty-Segmentation-for-Retail-Growth
+# Loyalty Segmentation for Retail Growth
